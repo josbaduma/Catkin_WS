@@ -1,0 +1,8 @@
+prefix=/home/lutec5/catkin_ws/devel
+
+Name: rosbot_description
+Description: Description of rosbot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lutec5/catkin_ws/devel/lib 
+Requires: 
