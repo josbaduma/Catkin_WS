@@ -1,2 +1,2 @@
-gazebo_ros_demos/custom_plugin_tutorial:gazebo_ros_demos/rrbot_control:gazebo_ros_demos/rrbot_description:gazebo_ros_demos/rrbot_gazebo:learning_tf:myrobot_description:myrobot_gazebo:r2d2:robot_setup_tf:testbot_description
+learning_tf:myrobot_description:myrobot_gazebo:r2d2:robot_setup_tf:testbot_description
 -DCATKIN_DEVEL_PREFIX=/home/lutec5/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lutec5/catkin_ws/install -G Unix Makefiles
