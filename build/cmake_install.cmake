@@ -122,6 +122,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/lutec5/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/home/lutec5/catkin_ws/build/beginner_tutorial/cmake_install.cmake")
   include("/home/lutec5/catkin_ws/build/myrobot_description/cmake_install.cmake")
   include("/home/lutec5/catkin_ws/build/myrobot_gazebo/cmake_install.cmake")
   include("/home/lutec5/catkin_ws/build/r2d2/cmake_install.cmake")

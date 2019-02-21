@@ -5,6 +5,7 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
+subdirs("beginner_tutorial")
 subdirs("myrobot_description")
 subdirs("myrobot_gazebo")
 subdirs("r2d2")
